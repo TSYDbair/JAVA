@@ -8,6 +8,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         char[] m={'q','w','e','a','s','d','z','x','c'};
+        System.out.print("q, w, e, a, s, d, z, x, c");
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         Scanner d = new Scanner(System.in);
         Random e=new Random();
